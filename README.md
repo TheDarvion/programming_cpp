@@ -1,5 +1,6 @@
 <p align="center">
-📕 <b>Solutions to practical assignments for the course <i>“Object-Oriented Programming”</i> in C++ (VVSU).</b>
+📕 <b>Solutions to practical assignments for the course <i>“Object-Oriented Programming”</i> in C++ (VVSU).</b><br>
+❗️  <b>Not all practical assignments are presented here, as some of them were checked by the instructor personally.<b>
 </p>
 
 <br>
